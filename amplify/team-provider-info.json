@@ -1,0 +1,20 @@
+{
+  "bugfixdev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bugfix-bugfixdev-13656-authRole",
+      "UnauthRoleArn": "arn:aws:iam::620295137504:role/amplify-bugfix-bugfixdev-13656-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::620295137504:role/amplify-bugfix-bugfixdev-13656-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-bugfix-bugfixdev-13656-deployment",
+      "UnauthRoleName": "amplify-bugfix-bugfixdev-13656-unauthRole",
+      "StackName": "amplify-bugfix-bugfixdev-13656",
+      "StackId": "arn:aws:cloudformation:us-east-1:620295137504:stack/amplify-bugfix-bugfixdev-13656/abe47320-2b91-11eb-835e-0aa80e27dccf",
+      "AmplifyAppId": "d1mzbgml30veiq"
+    },
+    "categories": {
+      "auth": {
+        "bugfix32277150": {}
+      }
+    }
+  }
+}
